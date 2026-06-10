@@ -3,6 +3,7 @@
 import { Command } from "commander";
 import { runWakeUp } from "./tui/wakeup";
 
+
 const program = new Command();
 
 program
