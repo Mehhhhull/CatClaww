@@ -1,4 +1,4 @@
-import { Chalk } from "chalk";
+import chalk from "chalk";
 import {select,isCancel} from "@clack/prompts";
 
 
