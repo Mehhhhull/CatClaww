@@ -10,4 +10,6 @@ export async function runAgentMode(){
   });
 
   if(isCancel(goal)|| !goal.trim()) return;
+
+  const config=defaultAgentConfig()
 }
